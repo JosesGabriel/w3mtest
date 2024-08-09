@@ -38,13 +38,13 @@ class _MyHomePageState extends State<MyHomePage> {
     metadata: const PairingMetadata(
       name: 'W3MTest',
       description: 'W3MTest',
-      url: 'https://github.com/JosesGabriel/web3mtest',
+      url: 'https://github.com/JosesGabriel/w3mtest',
       icons: <String>[
         'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Identicon.svg/1200px-Identicon.svg.png',
       ],
       redirect: Redirect(
-        universal: 'https://github.com/JosesGabriel/web3mtest',
-        native: 'https://github.com/JosesGabriel/web3mtest',
+        universal: 'https://github.com/JosesGabriel/w3mtest',
+        native: 'https://github.com/JosesGabriel/w3mtest',
       ),
     ),
     includedWalletIds: <String>{
